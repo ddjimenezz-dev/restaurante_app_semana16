@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Encebollado",
+        "categoria": "Platos fuertes",
+        "precio": 3.5,
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "nombre": "Seco de pollo",
+        "categoria": "Platos fuertes",
+        "precio": 4.5,
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "nombre": "Empanadas de viento",
+        "categoria": "Entradas",
+        "precio": 1.25,
+        "stock": 30
+    },
+    {
+        "id": 4,
+        "nombre": "Jugo de naranja",
+        "categoria": "Bebidas",
+        "precio": 1.5,
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "nombre": "Tres leches",
+        "categoria": "Postres",
+        "precio": 2.75,
+        "stock": 10
+    }
+]
